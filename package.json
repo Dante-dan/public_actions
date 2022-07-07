@@ -19,7 +19,7 @@
   "homepage": "https://github.com/hccluck/public_actions#readme",
   "dependencies": {
     "crypto": "^1.0.1",
-    "got": "^11.8.2",
+    "got": "^11.8.5",
     "jsonwebtoken": "^8.5.1",
     "node-fetch": "^2.6.7",
     "nodemailer": "^6.6.3"
